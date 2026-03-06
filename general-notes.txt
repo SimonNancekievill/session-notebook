@@ -1,0 +1,95 @@
+Mittwochs ist Selflearning Day um stuff aufzuholen.
+ 
+ Learn to let go of your code!
+
+Learn code by writing code
+
+
+
+Tech Industry who or what is it? 
+
+🖊️ Journal Prompt (10–15 Min):
+
+„Wenn ich zurückblicke, sehe ich, dass ich jemand bin, der/die…
+
+Wenn ich nach vorn blicke, möchte ich jemand werden, der/die…“
+
+
+
+
+
+
+
+„Wenn ich zurückblicke, sehe ich, dass ich jemand bin, der/die… sich gerne und viel um Menschen und deren Anliegen kümmert. Als Mediengestalter und Fotograf waren es immer die Herausforderungen für den individuellen Anwendungsbereich das passende outcome zu generieren. Problemlösungen gehören für mich immer dazu. 
+
+
+
+
+Wenn ich nach vorn blicke, möchte ich jemand werden, der/die… das internet zu einem Raum für ALLE macht, ohne Barrieren zu generieren und alle mit einbezieht. Mir ist es wichtig auf Menschen und deren Bedürfnisse zu achten. Weiterhin möchte ich Design mit Funktion und "Vereinfachung" kombinieren und so einen einfach zugänglichen Raum und Umgang schaffen.
+
+
+Eine Geschichte, an die ich mich erinnern möchte: 
+
+Durch mein freiwilliges soziales Jahr und die Begleitung von Jan in der Schule habe ich gesehen und miterlebt was für Hürden im alttäglichen Leben für Menschen mit Behinderungen bestehen und das diese Hürden oft einen Abbruch zur Folge haben. Da fing mein Verständnis dafür an nicht nur an mich zu denken sondern auch an meine Mitmenschen. Barrierefreiheit wird mein großes Ziel sein.
+
+
+
+Ich aktualisiere mein LinkedIn Profil um mich auf die Tech Branche vorzubereiten und attraktiv für potentielle Kund*innen zu sein.
+Ich bin nicht gut genug, nicht intelligent genug. 
+Ich bin noch am lernen! 
+
+Ich arbeite nicht in realen Projekten.
+Ich lerne noch an realen Projekte zu arbeiten und die Herausforderung anzunehmen.
+
+
+Ich verbessere mein LinkedIn Profil um den Wechsel sichtbar und real zu machen. 
+
+
+
+Inzuchtsprobleme bei AI
+
+Datenschutz Probleme Sensoren oder Kamera kontrolliert unsere Arbeit und lernt daraus.
+
+Krankenhauskeime könnten wieder gekillt werden.
+
+
+How are we going to learn. 
+
+Ich glaube wir werden am Anfang einen Teil Vorlesungen und Präsentationen von Coaches bekommen und dann schnell in die eigen Arbeit überzugehen. Mit kleineren Aufgaben und Projekten. Teambasiert wird wahrscheinlich gearbeitet.
+
+
+Wünschen würde ich mir Eigenarbeit kombiniert mit der Feedbackschleife im Team, nicht zu viel Teamarbeit.(zu sehr auf die anderen angewiesen zu sein) Vielleicht bin ich da aber auch zu skeptisch. Kleine Projekte die schnelle Erfolge versprechen. 
+
+
+Gruppenarbeiten können für mich schwierig werden und mich demotivieren: Erinnere dich daran das nur für dich zu machen, für niemand anderen. Ich will hier weiter kommen und daran wird mich niemand hindern. (Im Notfall Coach ansprechen	).
+
+Merken, dass meine Projekte weniger innovativ sind?: Reflektieren und das Verständnis dafür entwickeln, dass niemand mit meiner Vorgeschichte hier sitzt und ich mich nicht vergleichen kann. 
+
+Prüfungen und Projekte können zum Problem werden, Leistungsdruck und Prüfungsängste. Versuch deinen eigenen Weg zu finden. Du kannst das! Du darfst Fehler machen, ich bin hier für mich. Niemand wird mir das nehmen können. Es ist kein Problem Fehler uz machen und nicht zufrieden zu sein mit meinem Projekt. Ich lerne noch!
+
+
+
+Communication: 
+Barrierefreie Sprache, Diskriminierungen jeder Art verbieten, Auf Augenhöhe treffen, wertfreie Sprache, Ausreden lassen, auf einander acht geben, Rücksicht, Wertschätzung,
+
+Team work: 
+Augenhöhe, Rücksicht nehmen, Wir sind in einer Learningphase hier kann man testen und sich ausprobieren hier geht es nicht um gewinnen. 
+
+Working Style: 
+Wir sind in einer Learningphase hier kann man testen und sich ausprobieren hier geht es nicht um gewinnen. Nur so stark wie das schwächste Glied, gibt es dafür eine wertfreie Wortwahl Ein System ist so belastbar wie seine sensibelste Komponente. Gemeinsam stark: Wo eine Schwäche ist, kann eine Stärke unterstützen.
+
+Feedback: 
+Wertfreies Feedback, Gespür entwickeln wie es ankommt und aufgenommen wird. 
+
+
+
+
+
+
+Git 
+Version Control System = System zur verwaltung von Dateien und deren Versionen
+To fork =  einen commit zu "ziehen"	
+Commit = Speicherstand des gesamten Projekts/Zwischenstand
+Repository = zentraler Speicherort für ein Projekt (zu Hause eines Projekts)
+Git = version control System/ lokal auf dem Rechner 
+GitHub = Cloudbasierte Hosting Service für Git Repositories(Repos)
