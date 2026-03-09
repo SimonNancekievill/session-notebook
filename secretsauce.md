@@ -16,9 +16,4 @@ _helpful notes_
 -
 -
 
-[^1]: Git is an open source version control system that:
-
-- keeps track of all changes made to the source code
-- enables developers to easily collaborate on the same project and  
-  exchange updates
-- enables developers to go back to earlier versions of the source code
+[^1]: Git is an open source version control system that: keeps track of all changes made to the source code, enables developers to easily collaborate on the same project and exchange updates and enables developers to go back to earlier versions of the source code.
