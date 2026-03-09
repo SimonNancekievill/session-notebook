@@ -6,7 +6,7 @@ _helpful notes_
 
 - Cloudbased Hosting Service for Git Repositories(Repos)
 - good tool for teamwork
-- _isnt‘t_ git
+- `isn‘t` git
 - social network for devs and companies
 
 ## Markdown
