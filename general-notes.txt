@@ -93,3 +93,6 @@ Commit = Speicherstand des gesamten Projekts/Zwischenstand
 Repository = zentraler Speicherort für ein Projekt (zu Hause eines Projekts)
 Git = version control System/ lokal auf dem Rechner 
 GitHub = Cloudbasierte Hosting Service für Git Repositories(Repos)
+
+
+
